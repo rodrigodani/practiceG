@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 
 ### Actualizado desde Github
-este es un mensaje
+este es una nota
